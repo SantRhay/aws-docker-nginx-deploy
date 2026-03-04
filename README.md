@@ -56,4 +56,15 @@ You should see the Nginx Welcome Page.
 
 The Nginx container was successfully deployed on AWS EC2 and exposed to the internet.
 
+## Screenshots
+
+### AWS EC2 Instance
+![AWS EC2](aws-ec2.png)
+
+### Docker Container Running
+![Docker](docker-container-running.png)
+
+### Nginx Running
+![Nginx](nginx-running.png)
+
 This project demonstrates basic DevOps practices including container deployment, cloud infrastructure configuration, and networking.
